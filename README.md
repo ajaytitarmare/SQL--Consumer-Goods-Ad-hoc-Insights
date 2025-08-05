@@ -60,10 +60,9 @@ Each slide in the presentation addresses the following business questions:
 
 ## 🛠️ Tools Used
 
-- **Python**: For slide generation using `python-pptx`
 - **PowerPoint**: Final delivery format
-- **Custom Finance-Themed Background**: Applied consistently to all slides
-
+- **MySQL**: for Sql queries and analysis 
+- **PowerBI**: Generating Visuals
 ---
 
 ## 🧠 SQL Terms Learned
@@ -83,6 +82,3 @@ Each slide in the presentation addresses the following business questions:
 
 ---
 
-```
-
-Would you like me to save this as a downloadable `README.md` file for GitHub?
